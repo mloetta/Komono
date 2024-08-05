@@ -42,4 +42,4 @@ These Terms shall be governed by and construed in accordance with the laws of [Y
 
 ## 9. Contact Us
 
-If you have any questions about these Terms or Komono, please contact us (here)[https://discord.gg/7b234YFhmn].
+If you have any questions about these Terms or Komono, please contact us [here](https://discord.gg/7b234YFhmn).
