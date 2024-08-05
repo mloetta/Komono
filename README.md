@@ -1,2 +1,2 @@
-# Dan
-Dan is(soon to be) a multi-purpose open-source discord app.
+# Komono
+Komono is your everyday companion, offering a wide variety of commands, from AI integration to web commands, and much more!
