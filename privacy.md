@@ -18,7 +18,7 @@ We collect and store the following information related to Discord servers (guild
 
 We collect and store the following information from messages that Komono interacts with:
 
-- **Mention:** Whether Komono was mentioned in the message.
+- **Mention:** Whether any member of the guild was mentioned in the message.
 - **Mentioned IDs:** The IDs of users mentioned in the message.
 - **Author ID:** The ID of the user who sent the message.
 - **Content:** The text content of the message.
