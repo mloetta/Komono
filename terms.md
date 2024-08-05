@@ -1,6 +1,6 @@
 # Terms of Service
 
-**Last Updated:** [Insert Date]
+**Last Updated:** August 5, 2024
 
 ## 1. Introduction
 
