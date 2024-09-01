@@ -10,13 +10,12 @@ Welcome to Komono, a Discord bot developed by Melo ("we," "us," or "our"). This 
 
 We collect and store the following information related to Discord servers (guilds) where Komono is used:
 
-- **Locale/Preferred Language:** The preferred language setting for the server.
 - **Prefix:** The command prefix used to interact with Komono.
 - **Guild ID:** The unique identifier for the Discord server.
 
 ### 1.2. Message Information
 
-We collect and store the following information from messages that Komono interacts with:
+We collect and store the following information from messages that Komono views:
 
 - **Mention:** Whether any member of the guild was mentioned in the message.
 - **Mentioned IDs:** The IDs of users mentioned in the message.
@@ -24,13 +23,21 @@ We collect and store the following information from messages that Komono interac
 - **Content:** The text content of the message.
 - **Timestamp:** The time when the message was sent.
 - **Channel ID:** The ID of the channel where the message was posted.
+- **Message Count:** The total number of messages you have sent.
+
+### 1.3. Voice Call Information
+
+We collect and store the following information related to voice calls:
+
+- **User Voice Call Duration:** The amount of time a user spends in a voice call.
 
 ## 2. How We Use Your Information
 
 The information we collect is used for the following purposes:
 
-- **Guild Configuration:** To manage and apply server-specific settings such as locale, prefix, and other preferences.
+- **Guild Configuration:** To manage and apply server-specific settings such as prefix, and other preferences.
 - **Message Handling:** To process and respond to messages based on the content and metadata, including for the anti-ghost ping system to identify and handle potential ghost pings.
+- **Voice Call Management:** To track and display user voice call duration.
 
 ## 3. Data Retention
 
@@ -54,6 +61,6 @@ We may update this Privacy Policy periodically. Any changes will be communicated
 
 ## 8. Contact Us
 
-If you have any questions or concerns about this Privacy Policy, please contact us on Discord. You can find us [here](https://discord.gg/7b234YFhmn)".
+If you have any questions or concerns about this Privacy Policy, please contact us on Discord. You can find us [here](https://discord.gg/7b234YFhmn).
 
 By using Komono, you consent to the collection and use of information as described in this Privacy Policy.
